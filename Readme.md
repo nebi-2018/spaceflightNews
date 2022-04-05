@@ -24,7 +24,8 @@
 
 ## Photos
 
-![](Screenshots/SpaceflightNews.jpg)
+<img src="Screenshots/SpaceflightNews.jpg" width="300">
 
-![](Screenshots/SpaceflightNews2.jpg)
+<img src="Screenshots/SpaceflightNews2.jpg" width="300">
+
 
