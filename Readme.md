@@ -2,7 +2,7 @@
 
 ## Description 
 
-- This is a news app that displays the latest news about space flight news. It also works offline 
+- This is a news app that displays the latest news about spaceflight. It is an offline first app 
   by caching the content in the database. 
   
 - I have used Model View ViewModel (MVVM) design pattern with clean architecture recommendations, 
@@ -18,7 +18,7 @@
   
 
 ## Instructions
-- In order to run the app just clone this repository and just press the button next to the guiding 
+- In order to run the app just clone this repository and just press the button below to the guiding 
   text
   
 
@@ -28,10 +28,3 @@
 
 ![](Screenshots/SpaceflightNews2.jpg)
 
-![](Screenshots/SpaceflightNews3.jpg)
-
-![](Screenshots/SpaceflightNews4.jpg)
-
-![](Screenshots/SpaceflightNews5.jpg)
-
-![](Screenshots/SpaceflightNews6.jpg)
