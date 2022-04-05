@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spaceflight News</string>
+    <string name="userGuideText">Press the button to get News. if the app does not have an internet connection or if the request failed it will try to load the news from the local catch</string>
+    <string name="Image">News Image</string>
+    <string name="Source">News Source</string>
+    <string name="Title">News Title</string>
+    <string name="publishedDate">Published Date</string>
+
+</resources>
